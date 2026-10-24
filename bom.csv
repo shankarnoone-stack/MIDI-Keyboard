@@ -1,4 +1,4 @@
-Designator,Footprint,Quantity,Value,LCSC Part #
+Designator,Footprint,Quantity,Part,Price
 "D1, D2, D3",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,3,SK6812MINI-E,
 J1,MIDI Keyboard,1,Conn_01x07,
 "RV3, RV4",Potentiometer_Bourns_PTA1543_Single_Slide,2,Slider,
